@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Songnamz
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel
-- 📫 How to reach me songnamsaraphai1@gmail.com
-- 😄 Pronouns: Jengz
-- ⚡ Fun fact: Love Learning
+
+Systems & Network Architect
+Specialized in designing and maintaining high-availability infrastructure and secure enterprise networks. I focus on building resilient server environments, streamlining remote access solutions, and developing custom tools to bridge the gap between complex hardware and user-friendly software.
 
 <!---
 Songnamz/Songnamz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
