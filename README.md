@@ -1,26 +1,146 @@
-- 👋 Hi, I’m @Songnamz
+# 👋 Hi, I’m @Songnamz
 
-**Systems & Network Architect | IT Administrator**
-Specialized in designing and maintaining high-availability infrastructure and secure enterprise networks. I focus on building resilient server environments, streamlining remote access solutions, and developing custom tools to bridge the gap between complex hardware and user-friendly software.
+## Systems & Network Architect | IT Administrator
 
-### 💻 Core Competencies
-* **Infrastructure & Virtualization**: Architecting High-Availability Proxmox VE clusters, executing VMware ESXi migrations, and managing Ceph distributed storage.
-* **Network Security**: Implementing FortiGate SD-WAN, managing Cloudflare WAF rules, and configuring isolated IPsec VPNs.
-* **Professional AV Integration**: Bridging IT and live event production via digital audio networks (Midas mixers) and visual broadcasts (Feelworld PTZ cameras, LED walls).
-* **System Monitoring**: Deploying self-hosted, open-source solutions like Netdata Cloud for centralized infrastructure tracking.
+Specialized in designing and maintaining high-availability infrastructure and secure enterprise networks. I focus on building resilient server environments, streamlining remote access solutions, and developing custom tools that bridge the gap between complex hardware and user-friendly software.
 
-### 🛠️ Web Apps & System Showcase
-* [**Songnamz Portfolio**](https://songnam.xyz) – My personal profile and central showcase.
-* [**AD Bulk**](https://adbulk.songnam.xyz) – On-prem Active Directory management, Cloud synchronization, and OneDrive provisioning tool.
-* [**CertTrack**](https://certtrack.songnam.xyz) – Automated SSL certificate monitoring and renewal via Cloudflare DNS-01.
-* [**SDA Hymnal Presenter**](https://pp.songnam.xyz) – Multilingual presentation tool (Thai/English) with integrated audio support.
-* [**PTZ Control**](https://ptzctrl.songnam.xyz) – Desktop app for controlling up to 8 PTZ cameras simultaneously via VISCA over IP.
-* [**SafeDrive Backup**](https://safedrive.songnam.xyz) – Lightweight Windows utility for automated local, network, and cloud file backups.
-* [**S'gaw Karen Keyboard**](https://sgawkarenkb.songnam.xyz) – Custom Windows application engineered for easy and accurate S'gaw Karen typing.
-* [**ShortURL**](https://shorturl.songnam.xyz) – Enterprise-grade URL shortener featuring multi-auth and advanced activity logging.
-* [**WARP GUI**](https://warp.songnam.xyz) – Minimal Linux system tray client for managing Cloudflare WARP without a terminal.
+---
+
+## 💻 Core Competencies
+
+### Infrastructure & Virtualization
+
+* High-Availability Proxmox VE Clusters
+* VMware ESXi Migration & Consolidation
+* Ceph Distributed Storage
+* Linux & Windows Server Administration
+
+### Network Security
+
+* FortiGate SD-WAN & Security Policies
+* Cloudflare WAF & Zero Trust
+* IPsec VPN & Remote Access Solutions
+* Enterprise Network Design & Segmentation
+
+### Professional AV Integration
+
+* Digital Audio Networks (Midas Mixers)
+* PTZ Camera Systems & Live Production
+* LED Wall & Broadcast Infrastructure
+* Audio/Video Workflow Automation
+
+### System Monitoring & Automation
+
+* Netdata Cloud Deployment
+* Infrastructure Monitoring & Alerting
+* Custom Administrative Tools
+* Process Automation & Integration
+
+---
+
+## 🛠️ Web Apps & System Showcase
+
+### 🌐 Portfolio & Utilities
+
+* **[Songnamz Portfolio](https://songnam.xyz)**
+  Personal profile, projects, and technology showcase.
+
+* **[ShortURL](https://shorturl.songnam.xyz)**
+  Enterprise URL shortener with multi-authentication and activity logging.
+
+---
+
+### 🏢 Enterprise & Infrastructure
+
+* **[AD Bulk](https://adbulk.songnam.xyz)**
+  Active Directory bulk management, cloud synchronization, and OneDrive provisioning.
+
+* **[CertTrack](https://certtrack.songnam.xyz)**
+  SSL certificate monitoring and automated renewal using Cloudflare DNS-01.
+
+* **[LicenseGuard](https://key.songnam.xyz)**
+  Self-hosted license key management platform with secure key generation, device locking, and piracy monitoring.
+
+* **[SafeDrive Backup](https://safedrive.songnam.xyz)**
+  Lightweight backup utility for local, network, and cloud storage.
+
+---
+
+### 🎵 Media & Production
+
+* **[SDA Hymnal Presenter](https://pp.songnam.xyz)**
+  Multilingual worship presentation system with integrated audio support.
+
+* **[Audio Studio](https://audiostudio.songnam.xyz)**
+  AI-powered audio processing tool for key changes, vocal removal, and karaoke creation.
+
+* **[PTZ Control](https://ptzctrl.songnam.xyz)**
+  Desktop application for controlling up to 8 PTZ cameras via VISCA over IP.
+
+---
+
+### ⌨️ Specialized Tools
+
+* **[S'gaw Karen Keyboard](https://sgawkarenkb.songnam.xyz)**
+  Windows application for efficient and accurate S'gaw Karen typing.
+
+* **[WARP GUI](https://warp.songnam.xyz)**
+  Lightweight Linux tray application for managing Cloudflare WARP.
+
+---
+
+## 🚀 Technology Stack
+
+### Infrastructure
+
+* Proxmox VE
+* VMware ESXi
+* Ceph
+* Linux
+* Windows Server
+
+### Networking & Security
+
+* FortiGate
+* Cloudflare
+* IPsec VPN
+* SD-WAN
+
+### Development
+
+* Next.js
+* React
+* Node.js
+* PostgreSQL
+* TypeScript
+
+### Automation & Monitoring
+
+* Netdata
+* Docker
+* GitHub Actions
+* Cloudflare API
+
+---
+
+## 🎯 Focus Areas
+
+* Enterprise Infrastructure Design
+* High Availability Systems
+* Network Security
+* Self-Hosted Solutions
+* IT Automation
+* Professional AV Integration
+* Open Source Development
+
+---
+
+## 📫 Connect With Me
+
+🌐 Website: https://songnam.xyz
+
+Building practical solutions that simplify complex systems while maintaining enterprise-grade reliability and security.
 
 <!---
-Songnamz/Songnamz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Songnamz/Songnamz is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
