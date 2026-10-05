@@ -14,7 +14,7 @@
 
   <!-- Quick Links Badges -->
   [![Portfolio](https://img.shields.io/badge/songnam.xyz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF)](https://songnam.xyz)
-  [![Email](https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:contact@songnam.xyz)
+  [![Email](https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:songnamsaraphai1@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Songnamz)
 
 </div>
