@@ -138,7 +138,7 @@ philosophy: "Building resilient, enterprise-grade systems that bridge complex ha
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Songnamz&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true" width="95%" />
+<img src="https://raw.githubusercontent.com/Songnamz/Songnamz/output/github-snake-dark.svg" alt="Contribution snake" width="95%" />
 
 </div>
 
