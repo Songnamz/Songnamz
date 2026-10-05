@@ -5,10 +5,10 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00BFFF&height=220&section=header&text=Songnamz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20%26%20Network%20Architect%20%C2%B7%20IT%20Administrator&descSize=18&descColor=00BFFF&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00BFFF&height=220&section=header&text=Songnamz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20and%20Network%20Architect%20%C2%B7%20IT%20Administrator&descSize=18&descColor=00BFFF&descAlignY=55&animation=fadeIn" width="100%" />
 
   <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Architecting+High-Availability+Infrastructure;Securing+Enterprise+Networks+%26+Zero+Trust;Bridging+Hardware%2C+AV+%26+Custom+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Architecting+High-Availability+Infrastructure;Securing+Enterprise+Networks+and+Zero+Trust;Bridging+Hardware,+AV+and+Custom+Software" />
 
   <br/>
 
@@ -133,7 +133,7 @@ philosophy: "Building resilient, enterprise-grade systems that bridge complex ha
 <br/><br/>
 
 <a href="https://github.com/Songnamz">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Songnamz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=555555" />
+  <img src="https://streak-stats.demolab.com?user=Songnamz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=555555" />
 </a>
 
 <br/><br/>
